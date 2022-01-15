@@ -1,0 +1,3 @@
+
+##ERROR: ORA-01950: no privileges on tablespace 'USERS'
+ #Solved: alter user demo quota UNLIMITED on USERS;
